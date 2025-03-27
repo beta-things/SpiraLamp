@@ -7,8 +7,11 @@ A lamp with a human centered design, offering great diffused light and an organi
 What you need:
 
 -3D printer + filament 
+
 -PET plastic sheet
+
 -Wood dowel 3/16”(0.1875 inch or 4.76mm) 
+
 -Pendant Light Chord Kit
 
 Enjoy
